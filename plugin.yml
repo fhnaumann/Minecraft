@@ -1,0 +1,17 @@
+name: Market
+main: me.wand555.Market.Market
+version: 1.0.1
+api-version: 1.13
+description: >
+             Market
+author: wand555
+commands:
+  market:
+    usage: /market
+    description: Opens up the GUI.
+  market admin:
+    usage: /market admin
+    description: Sets/Unsets player in market admin mode.
+  configrl:
+    usage: /configrl
+    description: Reloads the config.
